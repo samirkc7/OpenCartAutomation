@@ -7,9 +7,9 @@ This repository contains automated test scripts for testing various functionalit
 •	Adding Products into Cart
 
 ## Tools and Technologies Used
-•	Selenium WebDriver
-•	Java
-•	TestNG
+* Selenium WebDriver
+* Java
+* TestNG
 
 ## How to Run the Tests
 •	Clone this repository to your local machine.
