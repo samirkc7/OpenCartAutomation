@@ -2,14 +2,14 @@
 This repository contains automated test scripts for testing various functionalities of the Open Cart eCommerce website. The testing is performed using Selenium WebDriver framework following the Page Object Model (POM) design pattern to enhance maintainability and readability.
 
 ## Features Tested
-Registration
-Login
-Adding Products into Cart
+•	Registration
+•	Login
+•	Adding Products into Cart
 
 ## Tools and Technologies Used
-Selenium WebDriver
-Java
-TestNG
+•	Selenium WebDriver
+•	Java
+•	TestNG
 
 ## How to Run the Tests
 •	Clone this repository to your local machine.
